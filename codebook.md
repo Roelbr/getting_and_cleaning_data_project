@@ -51,6 +51,10 @@
 <li><p>'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.</p></li>
 </ul>
 
+<h2>Transformation with R</h2>
+<p>For each of these features, the original study calculated several values. This project only imported the mean and standard deviation calculations for each feature into R and executes the script Run_analysis.R.
+
+The averages of those calculations were then determined by the script for each unique combination of subject and activity. These averages, along with their corresponding subject ID and activity name are written to a new text file.</p>
 
 </article>
   </div>
