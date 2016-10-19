@@ -8,7 +8,7 @@
 <li><code>run_analysis.R</code> is the R script for running all functions to fulfil this project tasks:
 
 <ul>
-<li>Merges the training and the test sets to create one data set.</li>
+<li>Merges the original (see codebook.md) training and test sets to create one data set.</li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement.</li>
 <li>Uses descriptive activity names to name the activities in the data set</li>
 <li>Appropriately labels the data set with descriptive variable names.</li>
