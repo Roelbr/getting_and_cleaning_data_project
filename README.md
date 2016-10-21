@@ -15,7 +15,7 @@
 <li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ul></li>
 <li>"codebook.md" gives the relevant information about the data and steps to run the project.</li>
-<li>"tidy.txt" is a tidy dataset that contains mean of each measurement for each activity and each subject.<br></li>
+<li>"tidy_data.txt" is a tidy dataset that contains mean of each measurement for each activity and each subject.<br></li>
 <li>"README.md" is the file you are reading.</li>
 </ul>
 </article>
